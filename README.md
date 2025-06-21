@@ -8,7 +8,7 @@
 
 ## 👨‍🎓 Tim Pengembang
  
-2. Wisnu Ibnu Muttaqiem  - Front-End Developer
+1. Wisnu Ibnu Muttaqiem  - Front-End Developer
 ---
 
 ## 🛠️ Dibuat Dengan
